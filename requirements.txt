@@ -1,0 +1,11 @@
+librosa>=0.10.2
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+torch>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+gradio>=4.19
+soundfile>=0.12
+audioread>=3.0
+kagglehub>=0.3
