@@ -135,7 +135,7 @@ python main.py --all
 python main.py --demo
 ```
  
-Open **[http://localhost:7860](http://localhost:7860)** — drag-and-drop an audio file or record directly from your microphone.
+Open **[http://localhost:7860](http://localhost:7860)** in your browser ,drag-and-drop an audio file or record directly from your microphone.
  
 ---
  
